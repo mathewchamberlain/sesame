@@ -10,7 +10,7 @@ Authors@R: c(person("Wanding", "Zhou", role = c("aut","cre"), email = "zhouwandi
              person("Bret", "Barnes", role = "ctb"),
              person("Timothy", "Triche", role = "ctb"),
              person("Hui", "Shen", role = c("aut"), email = "Hui.Shen@vai.org"))
-Depends: R (>= 4.1),
+Depends: R,
           sesameData
 License: MIT + file LICENSE
 RoxygenNote: 7.2.0
